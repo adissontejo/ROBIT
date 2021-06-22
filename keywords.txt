@@ -1,0 +1,5 @@
+ROBIT	KEYWORD1
+sensor	KEYWORD1
+obterLuz	KEYWORD2
+obterCores KEYWORD2
+obterDistancia KEYWORD2
