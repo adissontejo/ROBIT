@@ -1,5 +1,13 @@
 ROBIT	KEYWORD1
-sensor	KEYWORD1
+Sensor	KEYWORD1
 obterLuz	KEYWORD2
-obterCores KEYWORD2
-obterDistancia KEYWORD2
+obterCores	KEYWORD2
+obterDistancia	KEYWORD2
+vermelho	KEYWORD1
+verde	KEYWORD1
+azul	KEYWORD1
+media	KEYWORD1
+Motor	KEYWORD1
+frente	KEYWORD2
+tras	KEYWORD2
+para	KEYWORD2
